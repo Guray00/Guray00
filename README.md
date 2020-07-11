@@ -1,5 +1,5 @@
 ### Ciao! 👋
-🎓 Sono Marco, studio Ingegneria Informatica all'Università di Pisa.<br>
+🎓 Sono Marco, studio Ingegneria Informatica all'Università di Pisa<br>
 👨‍💻 Wannabe SW Developer 
 
 Al momento sto lavorando ad alcuni progetti come:
