@@ -8,3 +8,5 @@ Al momento sto lavorando ad alcuni progetti come:
 - destreamer-unipi, _porting per scaricare video da Microsoft Stream per l'UNIPI_
 
 _Mi trovi anche su [StackOverflow](https://stackoverflow.com/users/4757993/gray)!_
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Guray00)
