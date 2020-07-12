@@ -10,8 +10,12 @@ Al momento sto lavorando ad alcuni progetti come:
 _Mi trovi anche su [StackOverflow](https://stackoverflow.com/users/4757993/gray)!_
 
 ---
+<p align="center">
+  <i>Actions express priorities.</i><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Guray00.Guray00"/>
+</p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Guray00.Guray00)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Guray00)
+<details>
+<img src="https://github-readme-stats.vercel.app/api?username=Guray00"/>
+</details>
