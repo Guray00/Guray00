@@ -1,6 +1,6 @@
 ### Hey There! 👋
 🎓 I'm a Computer Engineering' student at the University of Pisa<br>
-👨‍💻 Working as`SW Developer` at _whatever i find_
+👨‍💻 Working as `SW Developer` at _whatever i find_
 
 Actually working on:
 - Materiale per Ingegneria Informatica, italian Repo for Computer Engineering at UNIPI
