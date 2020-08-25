@@ -1,13 +1,13 @@
-### Ciao! 👋
-🎓 Sono Marco, studio Ingegneria Informatica all'Università di Pisa<br>
-👨‍💻 `SW Developer `
+### Hey There! 👋
+🎓 I'm a Computer Engineering' student at the University of Pisa<br>
+👨‍💻 Working as`SW Developer` at _whatever i find_
 
-Al momento sto lavorando ad alcuni progetti come:
-- Materiale per Ingegneria Informatica
+Actually working on:
+- Materiale per Ingegneria Informatica, italian Repo for Computer Engineering at UNIPI
 - Linix, _initializer per distro linux_
-- destreamer-unipi, _porting per scaricare video da Microsoft Stream per l'UNIPI_
+- destreamer-unipi, porting of Destreamer for UNIPI (Download videos from Microsoft Stream)
 
-_Mi trovi anche su [StackOverflow](https://stackoverflow.com/users/4757993/gray)!_
+_You can find me at [StackOverflow](https://stackoverflow.com/users/4757993/gray) too!_
 
 ---
 
