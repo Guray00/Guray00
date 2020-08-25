@@ -9,7 +9,6 @@ Actually working on:
 
 _You can find me at [StackOverflow](https://stackoverflow.com/users/4757993/gray) too!_
 
----
 
 
 <details>
