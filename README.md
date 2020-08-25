@@ -14,7 +14,8 @@ _Mi trovi anche su [StackOverflow](https://stackoverflow.com/users/4757993/gray)
 
 <details>
 <img src="https://github-readme-stats.vercel.app/api?username=Guray00"/>
-<img src="https://stackoverflow.com/users/flair/4757993.png" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guray00&layout=compact"/>
+<img src="https://stackoverflow.com/users/flair/4757993.png" align="left"/>
 </details>
 
 
