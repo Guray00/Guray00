@@ -8,7 +8,7 @@ Actually working on:
 - destreamer-unipi, porting of Destreamer for UNIPI (Download videos from Microsoft Stream)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Guray00/Guray00)](https://badges.pufler.dev)
-
+[![Repos Badge](https://badges.pufler.dev/repos/Guray00)](https://badges.pufler.dev)
 
 <details>
   <summary>Stats</summary>
