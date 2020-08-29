@@ -7,6 +7,7 @@ Actually working on:
 - Linix, _initializer per distro linux_
 - destreamer-unipi, porting of Destreamer for UNIPI (Download videos from Microsoft Stream)
 
+[![Visits Badge](https://badges.pufler.dev/visits/Guray00/Guray00)](https://badges.pufler.dev)
 
 
 <details>
