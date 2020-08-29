@@ -23,7 +23,7 @@ Actually working on:
 </details>
 
 ### Contacts
-<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" href="https://stackoverflow.com/users/4757993/gray"/> 
+<a href="https://stackoverflow.com/users/4757993/gray" ><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /> </a>
 
 
 ### Languages
