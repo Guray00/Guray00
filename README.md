@@ -12,6 +12,7 @@ _You can find me at [StackOverflow](https://stackoverflow.com/users/4757993/gray
 
 
 <details>
+  <summary>Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Guray00&show_icons=true&hide=issues"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guray00&layout=compact" align="top" />
