@@ -18,4 +18,9 @@ _You can find me at [StackOverflow](https://stackoverflow.com/users/4757993/gray
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guray00&layout=compact" align="top" />
 </details>
 
+<details>
+    <summary>Activity</summary>
+    <br>
+    <!--START_SECTION:activity-->
+</details>
 
