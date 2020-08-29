@@ -7,8 +7,6 @@ Actually working on:
 - Linix, _initializer per distro linux_
 - destreamer-unipi, porting of Destreamer for UNIPI (Download videos from Microsoft Stream)
 
-_You can find me at [StackOverflow](https://stackoverflow.com/users/4757993/gray) too!_
-
 
 
 <details>
@@ -24,5 +22,9 @@ _You can find me at [StackOverflow](https://stackoverflow.com/users/4757993/gray
     <!--START_SECTION:activity-->
 </details>
 
-### Languages:
+### Contacts
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" href="https://stackoverflow.com/users/4757993/gray"/> 
+
+
+### Languages
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
