@@ -26,8 +26,6 @@ Actually working on:
 
 ### Languages
 <a href="https://it.wikipedia.org/wiki/Easter_egg"><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-
-
 <br><br>
 [![Visits Badge](https://badges.pufler.dev/visits/Guray00/Guray00)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Guray00)](https://badges.pufler.dev)
