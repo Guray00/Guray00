@@ -29,3 +29,4 @@ Actually working on:
 <br><br>
 [![Visits Badge](https://badges.pufler.dev/visits/Guray00/Guray00)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Guray00)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Guray00)](https://badges.pufler.dev)
