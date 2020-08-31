@@ -18,6 +18,9 @@ Actually working on:
     <summary>Activity</summary>
     <br>
     <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com//Guray00/destreamer-unipi/pull/1) in [Guray00/destreamer-unipi](https://github.com//Guray00/destreamer-unipi)
+2. 💪 Opened PR [#1](https://github.com//Guray00/destreamer-unipi/pull/1) in [Guray00/destreamer-unipi](https://github.com//Guray00/destreamer-unipi)
+<!--END_SECTION:activity-->
 </details>
 
 ### Contacts
