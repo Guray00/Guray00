@@ -14,14 +14,12 @@ Actually working on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guray00&layout=compact" align="top" />
 </details>
 
-<details>
-    <summary>Activity</summary>
-    <br>
-    <!--START_SECTION:activity-->
+### Activity
+<!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com//Guray00/destreamer-unipi/pull/1) in [Guray00/destreamer-unipi](https://github.com//Guray00/destreamer-unipi)
 2. 💪 Opened PR [#1](https://github.com//Guray00/destreamer-unipi/pull/1) in [Guray00/destreamer-unipi](https://github.com//Guray00/destreamer-unipi)
 <!--END_SECTION:activity-->
-</details>
+
 
 ### Contacts
 <a href="https://stackoverflow.com/users/4757993/gray" ><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /> </a> <a href="https://telegram.me/gray00" ><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" /> </a> 
