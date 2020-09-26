@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//Guray00/destreamer-unipi/issues/2) in [Guray00/destreamer-unipi](https://github.com//Guray00/destreamer-unipi)
-2. 🎉 Merged PR [#2](https://github.com//Guray00/destreamer-unipi/pull/2) in [Guray00/destreamer-unipi](https://github.com//Guray00/destreamer-unipi)
+1. 🗣 Commented on [#2](https://github.com/Guray00/destreamer-unipi/issues/2) in [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi)
+2. 🎉 Merged PR [#2](https://github.com/Guray00/destreamer-unipi/pull/2) in [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi)
 <!--END_SECTION:activity-->
 
 
