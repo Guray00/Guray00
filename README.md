@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Guray00/destreamer-unipi/issues/2) in [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi)
-2. 🎉 Merged PR [#2](https://github.com/Guray00/destreamer-unipi/pull/2) in [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi)
+1. ❗️ Opened issue [#11](https://github.com/pranavms13/whatsapp-node-api/issues/11) in [pranavms13/whatsapp-node-api](https://github.com/pranavms13/whatsapp-node-api)
+2. 🗣 Commented on [#2](https://github.com/Guray00/destreamer-unipi/issues/2) in [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi)
 <!--END_SECTION:activity-->
 
 
