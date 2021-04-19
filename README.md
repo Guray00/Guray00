@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Guray00/destreamer-unipi/pull/5) in [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi)
-2. 💪 Opened PR [#5](https://github.com/Guray00/destreamer-unipi/pull/5) in [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi)
+1. 🎉 Merged PR [#12](https://github.com/Guray00/IngegneriaInformatica/pull/12) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
+2. 🎉 Merged PR [#5](https://github.com/Guray00/destreamer-unipi/pull/5) in [Guray00/destreamer-unipi](https://github.com/Guray00/destreamer-unipi)
 <!--END_SECTION:activity-->
 
 
