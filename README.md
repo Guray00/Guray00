@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Guray00/IngegneriaInformatica/pull/14) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
-2. 🎉 Merged PR [#12](https://github.com/Guray00/IngegneriaInformatica/pull/12) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
+1. 💪 Opened PR [#13](https://github.com/morrolinux/simple-ehm/pull/13) in [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm)
+2. 🎉 Merged PR [#14](https://github.com/Guray00/IngegneriaInformatica/pull/14) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
 <!--END_SECTION:activity-->
 
 
