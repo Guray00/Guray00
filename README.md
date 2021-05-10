@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/morrolinux/simple-ehm/pull/17) in [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm)
-2. 💪 Opened PR [#16](https://github.com/morrolinux/simple-ehm/pull/16) in [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm)
+1. 🗣 Commented on [#16](https://github.com/morrolinux/simple-ehm/issues/16) in [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm)
+2. 💪 Opened PR [#17](https://github.com/morrolinux/simple-ehm/pull/17) in [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm)
 <!--END_SECTION:activity-->
 
 
