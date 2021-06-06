@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/morrolinux/simple-ehm/issues/18) in [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm)
-2. 🗣 Commented on [#18](https://github.com/morrolinux/simple-ehm/issues/18) in [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm)
+1. ❗️ Opened issue [#17](https://github.com/harry-cpp/code-nautilus/issues/17) in [harry-cpp/code-nautilus](https://github.com/harry-cpp/code-nautilus)
+2. ❗️ Opened issue [#24](https://github.com/Stunkymonkey/nautilus-open-any-terminal/issues/24) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
 <!--END_SECTION:activity-->
 
 
