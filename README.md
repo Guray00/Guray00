@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/Stunkymonkey/nautilus-open-any-terminal/issues/24) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
-2. 🗣 Commented on [#2551](https://github.com/vercel/hyper/issues/2551) in [vercel/hyper](https://github.com/vercel/hyper)
+1. 🗣 Commented on [#2551](https://github.com/vercel/hyper/issues/2551) in [vercel/hyper](https://github.com/vercel/hyper)
+2. 🗣 Commented on [#24](https://github.com/Stunkymonkey/nautilus-open-any-terminal/issues/24) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
 <!--END_SECTION:activity-->
 
 
