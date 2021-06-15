@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/ifl0w/RandomWallpaperGnome3/pull/105) in [ifl0w/RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3)
-2. 🗣 Commented on [#13](https://github.com/aunetx/blur-my-shell/issues/13) in [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)
+1. 🗣 Commented on [#105](https://github.com/ifl0w/RandomWallpaperGnome3/issues/105) in [ifl0w/RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3)
+2. 💪 Opened PR [#105](https://github.com/ifl0w/RandomWallpaperGnome3/pull/105) in [ifl0w/RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3)
 <!--END_SECTION:activity-->
 
 
