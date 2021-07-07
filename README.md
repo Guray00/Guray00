@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/ifl0w/RandomWallpaperGnome3/issues/105) in [ifl0w/RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3)
-2. 💪 Opened PR [#105](https://github.com/ifl0w/RandomWallpaperGnome3/pull/105) in [ifl0w/RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3)
+1. ❗️ Closed issue [#15](https://github.com/Guray00/IngegneriaInformatica/issues/15) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
+2. 🗣 Commented on [#15](https://github.com/Guray00/IngegneriaInformatica/issues/15) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
 <!--END_SECTION:activity-->
 
 
