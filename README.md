@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/Guray00/IngegneriaInformatica/issues/15) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
-2. 🗣 Commented on [#15](https://github.com/Guray00/IngegneriaInformatica/issues/15) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
+1. 🎉 Merged PR [#16](https://github.com/Guray00/IngegneriaInformatica/pull/16) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
+2. ❗️ Closed issue [#15](https://github.com/Guray00/IngegneriaInformatica/issues/15) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
 <!--END_SECTION:activity-->
 
 
