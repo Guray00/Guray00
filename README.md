@@ -16,8 +16,8 @@ Actually working on:
 
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/frealgagu/archlinux.whatsapp-nativefier/issues/6) in [frealgagu/archlinux.whatsapp-nativefier](https://github.com/frealgagu/archlinux.whatsapp-nativefier)
-2. 🎉 Merged PR [#16](https://github.com/Guray00/IngegneriaInformatica/pull/16) in [Guray00/IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica)
+1. 🗣 Commented on [#105](https://github.com/ifl0w/RandomWallpaperGnome3/issues/105) in [ifl0w/RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3)
+2. ❗️ Opened issue [#6](https://github.com/frealgagu/archlinux.whatsapp-nativefier/issues/6) in [frealgagu/archlinux.whatsapp-nativefier](https://github.com/frealgagu/archlinux.whatsapp-nativefier)
 <!--END_SECTION:activity-->
 
 
