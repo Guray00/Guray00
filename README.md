@@ -1,5 +1,6 @@
 ### Hey There! 👋
-🎓 I'm a Computer Engineering' student at the University of Pisa<br>
+🎓 I'm a Computer Engineering' student at Politecnico di Torino<br>
+🧑🏻‍🎓 Bachelor degree in Computer Engineering at University of Pisa <br>
 👨‍💻 Working as `SW Developer`
 
 Actually working on:
