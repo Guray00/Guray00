@@ -12,6 +12,7 @@ Actually working on:
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Guray00&show_icons=true&hide=issues"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guray00&layout=compact" align="top" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lampis.marco2000@gmail.com&api_domain=wakapi.mlampis.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" align="top"/>
 </details>
 
 ### Activity
