@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Marco</h1>
-<h3 align="center">I'm a Computer Engineering' student at Politecnico di Torino</h3>
+<h3 align="center">I'm a Computer Engineering' student at Polytechnic of Turin</h3>
 
 - 🧑🏻‍🎓 Bachelor degree in Computer Engineering at University of Pisa <br>
 - 👨‍💻 I'm a `Software Developer`
