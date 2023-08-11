@@ -1,7 +1,8 @@
-### Hey There! 👋
-🎓 I'm a Computer Engineering' student at Politecnico di Torino<br>
+<h1 align="center">Hi There👋, I'm Marco</h1>
+<h3 align="center">I'm a Computer Engineering' student at Politecnico di Torino</h3>
+
 🧑🏻‍🎓 Bachelor degree in Computer Engineering at University of Pisa <br>
-👨‍💻 Working as `SW Developer`
+👨‍💻 I'm a `Software Developer`
 
 Actually working on:
 - Materiale per Ingegneria Informatica, italian Repo for Computer Engineering at UNIPI
@@ -31,7 +32,7 @@ Actually working on:
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/guray00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mlampis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://stackoverflow.com/users/4757993/gray" ><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /> </a> <a href="https://telegram.me/gray00" ><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" /> </a> 
+<a href="https://stackoverflow.com/users/4757993/gray" ><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /></a><a href="https://telegram.me/gray00" ><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" /></a> 
 
 </p>
 
