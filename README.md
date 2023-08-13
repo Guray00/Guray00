@@ -3,7 +3,7 @@
 
 - 🧑🏻‍🎓 Bachelor degree in Computer Engineering at University of Pisa <br>
 - 👨‍💻 I'm a `Software Developer`
-- Check my portfolio [here](https://mlampis.dev)!
+- Check out my portfolio [here](https://mlampis.dev)!
 
 Actually working on:
 - Materiale per Ingegneria Informatica, italian Repo for Computer Engineering at UNIPI
